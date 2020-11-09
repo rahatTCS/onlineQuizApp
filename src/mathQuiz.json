@@ -1,0 +1,103 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "1. 19 + ....... = 42",
+            "options": [
+                " 23",
+                " 61",
+                " 0",
+                " 42"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "question": "2. What is the greatest two digit number?",
+            "options": [
+                " 10",
+                " 90",
+                " 11",
+                " 99"
+            ],
+            "answer": 4
+        },
+        {
+            "id": 3,
+            "question": "3. How much is 90-19?",
+            "options": [
+                " 71",
+                " 109",
+                " None of these"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "question": "4. What is the smallest three digit number?",
+            "options": [
+                " 111",
+                " 100",
+                " 999"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "question": "5. What is 1000 x 1 equal to",
+            "options": [
+                " 1000",
+                " 0"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "question": "6. In 24,673; the face-value of 4 is...",
+            "options": [
+                " 4",
+                " 2"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 7,
+            "question": "7. The largest number of six digit is...",
+            "options": [
+                " 9,99,999",
+                " 1,00,000"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "question": "8. The smallest number of seven digits is...",
+            "options": [
+                " 10,00,000",
+                " 0",
+		" 10,10,100"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "question": "9. A number is divisible by 5 if its unit digit is ....",
+            "options": [
+                " 2 or 0",
+                " 10 or 0",
+		" 0 or 5"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "question": "10. If a number has an even number or zero ar its unit place, the number is always divisible by.....",
+            "options": [
+                " 5",
+                " 2",
+		" 6"
+            ],
+            "answer": 2
+        }
+    ]
+}

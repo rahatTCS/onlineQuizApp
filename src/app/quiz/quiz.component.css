@@ -1,0 +1,18 @@
+.list-group-item-alice{
+    background-color: gainsboro;
+}
+.list-group-item-alice:hover{
+    background-color: slategray;
+}
+
+#timer{
+        text-align: right;
+        font-weight: bold;
+}
+
+#top{
+
+    text-align: left;
+    
+
+}
